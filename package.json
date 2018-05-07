@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "> 一直以来学习的js在本地和各个博客上面乱放，导致找个知识点都很不方便，最近发现github比较好，就试着在这里开始吧。。。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyuse/javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyuse/javascript/issues"
+  },
+  "homepage": "https://github.com/hanyuse/javascript#readme"
+}
