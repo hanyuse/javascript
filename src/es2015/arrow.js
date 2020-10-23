@@ -55,7 +55,8 @@ let obj = {
     //对象的简写方式
     _friends:['关','张','刘'],
     print(){
-        log
+        console.log("test git");
+        
         this._friends.forEach(val=>{
             //这里的this会继承上下文的this，而不再是undefined（严格模式）或则window（非严格模式）
             console.log(`${this._name}的朋友是${val}`); //字符串模板

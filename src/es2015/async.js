@@ -2,6 +2,8 @@
  * 异步使用，包括 Promise,async,await
  */
 
+//异步函数
+
 //1.Promise 基本使用
 /* const promise = new Promise((resolve,reject)=>{
     const obj = {
